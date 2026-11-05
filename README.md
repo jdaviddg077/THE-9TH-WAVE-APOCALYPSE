@@ -1,4 +1,5 @@
 # THE-9TH-WAVE-APOCALYPSE
+## Hi, GitHub doesn't allow files larger than 25 MB, but I’ve found a solution: you can download it via the link provided below under "Game".
  es una experiencia de terror analógico y supervivencia de mundo abierto fotorrealista basada en el universo de Trevor Henderson
  este proyecto se esta realizando en Roblox Studio y esta muy epico si te gusta el terror
 Hi! Today we were working on the game terrain and the streets.
